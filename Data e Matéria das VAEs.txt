@@ -1,0 +1,19 @@
+* * VAE1 - data 31/05/2022
+
+* Matéria:
+- Variáveis, tipos, operações aritméticas, entrada, saída, módulo 'math' (Capítulo 4)
+- Desvio condicional - if, else, elif (Capítulo 5)
+- Repetição - for, while (Capítulo 6)
+- Listas e Tuplas (Capítulo 7)
+
+
+* * VAE2 = 26/07/2022
+
+* Matéria:
+- Listas 2d (Capítulo 8)
+- Dicionários (Capítulo 9)
+- Modularização + módulos 'statistics' e 'random' (Capítulo 10)
+- Strings e Arquivos (Capítulo 11)
+
+EF = 11/08/2022
+- Capítulos 4 a 11
